@@ -1,5 +1,13 @@
 # Curriculum Vitae Online
 
+https://leonardojgm.github.io/cv/
+
+<img width="1459" height="841" alt="image" src="https://github.com/user-attachments/assets/7447e4e8-2989-4c9a-9a2b-7961670a630e" />
+
+<img width="1468" height="886" alt="image" src="https://github.com/user-attachments/assets/23a9e0c1-fdcf-4ffb-bb45-5a5020cac0e1" />
+
+<img width="1119" height="785" alt="image" src="https://github.com/user-attachments/assets/21e32cd7-e426-4188-a089-38ac492a75f0" />
+
 Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
 
 O projeto tem como objetivo montar nossa primeira página web que será a replica de um CV Online, utilizando conceitos de html e Github Pages. Ao  fim teremos nosso currículo pronto e disponível de forma estática.
